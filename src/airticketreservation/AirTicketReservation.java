@@ -15,7 +15,12 @@ public class AirTicketReservation {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic heres
+        int k =1;
+        int d =3;
+        int resu = k+d;
+        System.out.println(resu);
+        
     }
     
 }
